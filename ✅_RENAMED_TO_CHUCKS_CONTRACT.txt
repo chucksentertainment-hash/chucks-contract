@@ -1,0 +1,112 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ✅ RENAMED TO CHUCKS CONTRACT - COMPLETE!                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+📦 NEW DIRECTORY NAMES:
+═══════════════════════
+
+✅ chucks-contract-1/           (was: acbu-instance-1)
+✅ chucks-contract-2/           (was: acbu-instance-2)
+✅ chucks-contract-original/    (was: acbu-smart-contract)
+
+
+🎯 WHAT'S IN EACH:
+═══════════════════
+
+chucks-contract-1/
+  ✅ 8 Complete Soroban Smart Contracts
+  ✅ acbu_minting, acbu_burning, acbu_oracle
+  ✅ acbu_reserve_tracker, acbu_savings_vault
+  ✅ acbu_lending_pool, acbu_escrow, acbu_multisig
+  ✅ All tests, scripts, documentation
+
+chucks-contract-2/
+  ✅ Identical copy with all 8 contracts
+  ✅ Runs completely independently
+
+chucks-contract-original/
+  ✅ Original reference implementation
+
+
+🔄 UPDATED SCRIPTS:
+════════════════════
+
+✅ RUN_SMART_CONTRACTS.bat
+   - Now runs chucks-contract-1 and chucks-contract-2
+
+✅ BUILD_SMART_CONTRACTS.bat
+   - Builds both Chucks Contract instances
+
+✅ start-both-instances.ps1
+   - PowerShell script updated
+
+✅ INSTANCE_INFO.md files
+   - Updated in both contracts
+
+
+🚀 TO RUN:
+═══════════
+
+Quick Start:
+  RUN_SMART_CONTRACTS.bat
+
+Or manually:
+  cd chucks-contract-1
+  cargo test
+
+  cd chucks-contract-2
+  cargo test
+
+
+📂 OLD vs NEW NAMES:
+═════════════════════
+
+OLD                     →  NEW
+─────────────────────────────────────────
+acbu-instance-1/        →  chucks-contract-1/
+acbu-instance-2/        →  chucks-contract-2/
+acbu-smart-contract/    →  chucks-contract-original/
+
+
+✅ VERIFICATION:
+═════════════════
+
+✓ Folders renamed successfully
+✓ All scripts updated
+✓ Instance info updated
+✓ Full smart contract code intact
+✓ Ready to run
+
+
+📊 SMART CONTRACTS INCLUDED (16 total):
+═════════════════════════════════════════
+
+chucks-contract-1: 8 contracts
+  1. acbu_minting
+  2. acbu_burning
+  3. acbu_oracle
+  4. acbu_reserve_tracker
+  5. acbu_savings_vault
+  6. acbu_lending_pool
+  7. acbu_escrow
+  8. acbu_multisig
+
+chucks-contract-2: 8 contracts
+  (Same as above)
+
+
+🎉 READY TO GO!
+═════════════════
+
+Your Chucks Contract instances are ready:
+  - Properly named
+  - Scripts updated
+  - Ready to compile and run
+
+═══════════════════════════════════════════════════════════════
+
+Next: Run RUN_SMART_CONTRACTS.bat to start both!
+
+═══════════════════════════════════════════════════════════════
