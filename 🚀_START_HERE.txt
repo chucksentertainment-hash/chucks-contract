@@ -1,0 +1,124 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ACBU SMART CONTRACT - DUAL INSTANCE SETUP                 ║
+║   ═══════════════════════════════════════                   ║
+║                                                              ║
+║   ✅ Setup Complete - Ready to Run!                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+📁 WHAT YOU HAVE:
+═══════════════════
+
+✓ acbu-instance-1/          - Independent Instance 1
+✓ acbu-instance-2/          - Independent Instance 2  
+✓ acbu-smart-contract/      - Original (reference)
+
+✓ START_INSTANCES.bat       - Run both instances (EASY!)
+✓ BUILD_BOTH.bat            - Build both instances
+✓ start-both-instances.ps1  - PowerShell version
+✓ start-both-build.ps1      - PowerShell build script
+
+✓ README_DUAL_SETUP.md      - Complete guide
+✓ SETUP_GUIDE.md            - Detailed instructions
+
+
+🚀 QUICK START:
+═══════════════
+
+1. FIRST TIME? Install Rust:
+   
+   Visit: https://rustup.rs/
+   
+   Then run:
+   rustup target add wasm32-unknown-unknown
+
+2. TO RUN BOTH INSTANCES:
+   
+   Double-click: START_INSTANCES.bat
+   
+   OR in PowerShell:
+   .\start-both-instances.ps1
+
+3. TO BUILD BOTH INSTANCES:
+   
+   Double-click: BUILD_BOTH.bat
+   
+   OR in PowerShell:
+   .\start-both-build.ps1
+
+
+📖 WHAT HAPPENS:
+═════════════════
+
+→ Two terminal windows will open
+→ Instance 1 runs in one window
+→ Instance 2 runs in another window
+→ Both run completely independently
+
+
+⚠️  REQUIREMENTS:
+══════════════════
+
+Before running, you MUST install:
+
+✓ Rust (cargo + rustc)
+  https://rustup.rs/
+
+✓ WASM target
+  rustup target add wasm32-unknown-unknown
+
+Optional (for deployment):
+✓ Soroban CLI
+  cargo install --locked soroban-cli
+
+
+📚 MORE INFO:
+══════════════
+
+Read these files for detailed information:
+
+→ README_DUAL_SETUP.md    - Complete overview
+→ SETUP_GUIDE.md          - Step-by-step setup
+→ acbu-instance-1/README.md - Smart contract docs
+
+
+🎯 MANUAL START:
+═════════════════
+
+Terminal 1:
+  cd acbu-instance-1
+  cargo test
+
+Terminal 2:
+  cd acbu-instance-2
+  cargo test
+
+
+💡 TIPS:
+═════════
+
+• Both instances are completely independent
+• Edit either without affecting the other
+• Deploy to different networks for testing
+• Use for A/B testing or version comparison
+
+
+🆘 HELP:
+═════════
+
+Issue: "cargo not found"
+Fix:   Install Rust from https://rustup.rs/
+
+Issue: Build errors
+Fix:   cargo clean && cargo build
+
+Issue: WASM target missing
+Fix:   rustup target add wasm32-unknown-unknown
+
+
+═══════════════════════════════════════════════════════════════
+
+Ready? Run: START_INSTANCES.bat
+
+═══════════════════════════════════════════════════════════════

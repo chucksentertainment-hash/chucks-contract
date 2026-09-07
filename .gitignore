@@ -1,0 +1,45 @@
+# Rust build artifacts
+target/
+**/target/
+Cargo.lock
+
+# Build outputs
+*.wasm
+!soroban_token_contract.wasm
+*.so
+*.dylib
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Soroban deployment files
+.soroban/
+
+# Node modules (for ZK circuits)
+node_modules/
+**/node_modules/
+
+# Test artifacts
+test_snapshots/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Git conflicts
+*.orig
