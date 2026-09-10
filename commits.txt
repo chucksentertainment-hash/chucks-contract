@@ -1,0 +1,13 @@
+﻿69c1511fe1803ae2e1fb3e2b55f53fb148779fad|Add complete migration workflow from Pi-Defi-world to chucksentertainment-hash|chucksentertainment|chucksentertainment@gmail.com
+504def36d3fadb8445d9c04059937245a0661c13|Update workflow documentation with second account push|chucksentertainment|chucksentertainment@gmail.com
+e022aee8e2ef88e019c3895bef92bd6d473c2553|Add complete workflows status file|chucksentertainment|chucksentertainment@gmail.com
+5fc2305c6e3cc7ebe838001216f9a990768ecb33|Update workflow documentation with all missing workflows|chucksentertainment-hash|chucksentertainment@gmail.com
+69d85d29366e40041ab4ee38a826165c8cd49269|Add complete history summary and verification|chucksentertainment-hash|chucksentertainment@gmail.com
+32b0ab4c28889a5129b39bb28722eeba5a5712cf|Add complete git commit history documentation|chucksentertainment-hash|chucksentertainment@gmail.com
+43ecc38d62ce3e6883d1851346a79dfad00890d5|Add project status files and complete documentation|chucksentertainment-hash|chucksentertainment@gmail.com
+6dfe3fdba33145640e76c61b5d4f6d1d396291f9|Add complete project workflow history documentation|chucksentertainment-hash|chucksentertainment@gmail.com
+3b8662c6ebb563175b247ebc0b1a8de0bb62cfb9|Add push ready status file|chucksentertainment-hash|chucksentertainment@gmail.com
+e7494d3dd2a12d4881264a97e4a39ce27d53dd07|Rename to chucks-contract: Updated all instances and scripts|chucksentertainment-hash|chucksentertainment@gmail.com
+50dd62af29b73244282c590d62adeeeaf556d472|Fix: Include full smart contract content instead of submodule references|chucksentertainment-hash|chucksentertainment@gmail.com
+919f426302d4b8b47369ff0467d481f3f2934f35|Add GitHub push instructions and helper scripts|chucksentertainment-hash|chucksentertainment@gmail.com
+95dbe555d0e4448c9b53323748e777af8e660b9e|Initial commit: ACBU dual-instance smart contract setup with automated scripts and comprehensive documentation|chucksentertainment-hash|chucksentertainment@gmail.com
