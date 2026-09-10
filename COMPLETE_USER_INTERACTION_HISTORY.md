@@ -108,7 +108,7 @@ cd acbu-smart-contract
 **Information Received**:
 - Username: `chucksentertainment-hash`
 - Email: `chucksentertainment@gmail.com`
-- Repository name: `acbu-dual-instance` (initial)
+- Repository name: `chucks-contract` (initially considered acbu-dual-instance, then renamed)
 - Push option: A (full push - everything)
 
 **Action Taken**:
@@ -118,8 +118,8 @@ git init
 git config user.name "chucksentertainment-hash"
 git config user.email "chucksentertainment@gmail.com"
 
-# Add remote
-git remote add origin https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+# Add remote (initially acbu-dual-instance, renamed to chucks-contract)
+git remote add origin https://github.com/chucksentertainment-hash/chucks-contract.git
 
 # Add files
 git add .
@@ -648,7 +648,7 @@ git ls-files | grep "acbu-instance-1" | wc -l
 
 **Issue Identified**:
 - Mixed naming between "acbu" and "chucks-contract"
-- Git remote still pointed to "acbu-dual-instance"
+- Git remote needed to point to "chucks-contract"
 - User wanted "chucks-contract" branding throughout
 
 **Scope Assessment**:

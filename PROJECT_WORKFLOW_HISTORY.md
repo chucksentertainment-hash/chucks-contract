@@ -124,7 +124,7 @@ A complete dual-instance deployment of 8 Soroban smart contracts with automated 
 1. **Collected Information**:
    - GitHub username: `chucksentertainment-hash`
    - Email: `chucksentertainment@gmail.com`
-   - Repository name: `acbu-dual-instance`
+   - Repository name: `chucks-contract` (initially was acbu-dual-instance, then renamed)
    - Push option: A (full push - both instances + original + all scripts)
 
 2. **Git Initialization**:
@@ -136,7 +136,8 @@ A complete dual-instance deployment of 8 Soroban smart contracts with automated 
 
 3. **Set Remote URL**:
    ```bash
-   git remote add origin https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+   # Initially set to acbu-dual-instance, later changed to chucks-contract
+   git remote add origin https://github.com/chucksentertainment-hash/chucks-contract.git
    ```
 
 4. **Attempted First Commit**:
@@ -529,7 +530,7 @@ A complete dual-instance deployment of 8 Soroban smart contracts with automated 
 
 **Query 6**: "try again"
 - Attempted push
-- Issue: Repository name still "acbu-dual-instance"
+- Note: Repository was later renamed to "chucks-contract"
 
 **Query 7**: "just focus on the smart contract continue"
 - Clarification: Smart contracts are the priority

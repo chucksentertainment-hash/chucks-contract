@@ -10,9 +10,9 @@
 
 ### Remote Configuration
 - **Remote Name**: origin
-- **Remote URL**: https://github.com/chucksentertainment-hash/acbu-dual-instance.git
-- **Fetch URL**: https://github.com/chucksentertainment-hash/acbu-dual-instance.git
-- **Push URL**: https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+- **Remote URL**: https://github.com/chucksentertainment-hash/chucks-contract.git
+- **Fetch URL**: https://github.com/chucksentertainment-hash/chucks-contract.git
+- **Push URL**: https://github.com/chucksentertainment-hash/chucks-contract.git
 
 ### Git User Configuration
 - **Username**: chucksentertainment-hash

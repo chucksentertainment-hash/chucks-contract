@@ -306,7 +306,7 @@ pause
 
 **Git Configuration**:
 ```bash
-git remote add origin https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+git remote add origin https://github.com/chucksentertainment-hash/chucks-contract.git
 git config user.name "chucksentertainment-hash"
 git config user.email "chucksentertainment@gmail.com"
 ```

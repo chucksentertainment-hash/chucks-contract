@@ -11,15 +11,15 @@ Your local repository has been initialized and committed with all files.
 1. **Go to GitHub**: https://github.com/new
 
 2. **Create Repository with these settings**:
-   - Repository name: `acbu-dual-instance`
-   - Description: `ACBU Smart Contract - Dual Instance Setup for Soroban`
+   - Repository name: `chucks-contract`
+   - Description: `Chucks Contract - Dual Instance Smart Contract Suite for Soroban`
    - Visibility: ✓ Public (or Private if you prefer)
    - ❌ **DO NOT** initialize with README, .gitignore, or license (we already have them)
 
 3. **After creating, GitHub will show you commands. Use these instead**:
 
 ```bash
-git remote add origin https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+git remote add origin https://github.com/chucksentertainment-hash/chucks-contract.git
 git branch -M main
 git push -u origin main
 ```
@@ -30,7 +30,7 @@ git push -u origin main
 # Install GitHub CLI first if needed: https://cli.github.com/
 
 # Create repo and push
-gh repo create acbu-dual-instance --public --source=. --remote=origin
+gh repo create chucks-contract --public --source=. --remote=origin
 git branch -M main
 git push -u origin main
 ```
@@ -39,7 +39,7 @@ git push -u origin main
 
 ```bash
 # Add remote (replace with your actual repo URL)
-git remote add origin https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+git remote add origin https://github.com/chucksentertainment-hash/chucks-contract.git
 
 # Rename branch to main
 git branch -M main
@@ -73,7 +73,7 @@ gh auth login
 ## ✅ Verification
 
 After pushing, verify at:
-https://github.com/chucksentertainment-hash/acbu-dual-instance
+https://github.com/chucksentertainment-hash/chucks-contract
 
 ## 📊 What's Being Pushed
 
@@ -114,7 +114,7 @@ git log --oneline
 git remote -v
 
 # Change remote URL if needed
-git remote set-url origin https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+git remote set-url origin https://github.com/chucksentertainment-hash/chucks-contract.git
 
 # Push
 git push -u origin main

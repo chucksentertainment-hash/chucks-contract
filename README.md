@@ -34,9 +34,9 @@ This setup provides **two independent instances** of the complete ACBU smart con
 ## 📁 Repository Structure
 
 ```
-acbu-dual-instance/
-├── acbu-instance-1/          # Instance 1 - Full smart contract suite
-├── acbu-instance-2/          # Instance 2 - Full smart contract suite
+chucks-contract/
+├── chucks-contract-1/          # Instance 1 - Full smart contract suite
+├── chucks-contract-2/          # Instance 2 - Full smart contract suite
 ├── acbu-smart-contract/      # Original repository (reference)
 │
 ├── START_INSTANCES.bat       # 🚀 Quick start - Run both instances
@@ -55,8 +55,8 @@ acbu-dual-instance/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/chucksentertainment-hash/acbu-dual-instance.git
-cd acbu-dual-instance
+git clone https://github.com/chucksentertainment-hash/chucks-contract.git
+cd chucks-contract
 ```
 
 ### 2. Install Prerequisites
@@ -134,8 +134,8 @@ cargo test
 
 4. **Clone & Build:**
    ```bash
-   git clone https://github.com/chucksentertainment-hash/acbu-dual-instance.git
-   cd acbu-dual-instance
+   git clone https://github.com/chucksentertainment-hash/chucks-contract.git
+   cd chucks-contract
    
    # Build both instances
    BUILD_BOTH.bat  # Windows

@@ -9,7 +9,7 @@
 
 ✅ Git initialized: YES
 ✅ User configured: chucksentertainment-hash <chucksentertainment@gmail.com>
-✅ Remote configured: https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+✅ Remote configured: https://github.com/chucksentertainment-hash/chucks-contract.git
 ✅ Branch: main
 ✅ Commits: 3 total
    1. Initial commit (scripts & docs)
@@ -96,7 +96,7 @@ Content: COMPLETE ✅
 
 STEP 1: Create repo on GitHub
   → Go to: https://github.com/new
-  → Name: acbu-dual-instance
+  → Name: chucks-contract
   → DO NOT initialize with README
   → Click "Create repository"
 

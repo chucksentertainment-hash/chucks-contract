@@ -15,7 +15,7 @@
 ✓ Comprehensive README.md created
 ✓ All files committed
 ✓ Branch renamed to 'main'
-✓ Remote added: https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+✓ Remote added: https://github.com/chucksentertainment-hash/chucks-contract.git
 
 
 📦 WHAT WILL BE PUSHED:
@@ -43,8 +43,8 @@ STEP 1: Create Repository on GitHub
 1. Go to: https://github.com/new
 
 2. Fill in:
-   Repository name: acbu-dual-instance
-   Description: ACBU Smart Contract - Dual Instance Setup
+   Repository name: chucks-contract
+   Description: Chucks Contract - Dual Instance Smart Contract Suite
    Visibility: Public (or Private)
    
 3. ⚠️ IMPORTANT: DO NOT check these boxes:
@@ -91,7 +91,7 @@ If you have GitHub CLI installed:
 ══════════════════
 
 Your repository will be live at:
-https://github.com/chucksentertainment-hash/acbu-dual-instance
+https://github.com/chucksentertainment-hash/chucks-contract
 
 
 📋 QUICK COMMAND REFERENCE:

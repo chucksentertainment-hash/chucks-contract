@@ -209,7 +209,7 @@ Write-Host "Both instances started!" -ForegroundColor Green
 ```
 GitHub Username: chucksentertainment-hash
 Email: chucksentertainment@gmail.com
-Repository Name: acbu-dual-instance (later changed)
+Repository Name: chucks-contract
 Push Option: A (full push - everything)
 ```
 
@@ -226,7 +226,7 @@ git config user.email "chucksentertainment@gmail.com"
 git branch -M main
 
 # Add remote
-git remote add origin https://github.com/chucksentertainment-hash/acbu-dual-instance.git
+git remote add origin https://github.com/chucksentertainment-hash/chucks-contract.git
 ```
 
 #### Initial Commit Attempt:
