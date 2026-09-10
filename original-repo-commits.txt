@@ -1,0 +1,15 @@
+﻿927d090 Remove acbu-dual-instance references and update to chucks-contract throughout
+adb54bf Add complete user interaction history - every query, action, and workflow from start to finish
+69c1511 Add complete migration workflow from Pi-Defi-world to chucksentertainment-hash
+504def3 Update workflow documentation with second account push
+e022aee Add complete workflows status file
+5fc2305 Update workflow documentation with all missing workflows
+69d85d2 Add complete history summary and verification
+32b0ab4 Add complete git commit history documentation
+43ecc38 Add project status files and complete documentation
+6dfe3fd Add complete project workflow history documentation
+3b8662c Add push ready status file
+e7494d3 Rename to chucks-contract: Updated all instances and scripts
+50dd62a Fix: Include full smart contract content instead of submodule references
+919f426 Add GitHub push instructions and helper scripts
+95dbe55 Initial commit: ACBU dual-instance smart contract setup with automated scripts and comprehensive documentation
